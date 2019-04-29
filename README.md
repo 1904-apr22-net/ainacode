@@ -1,2 +1,2 @@
 # ainacode
-My personal day to day note for Revature
+My personal day to day notes.
