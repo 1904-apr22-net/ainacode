@@ -58,7 +58,7 @@ namespace IsPalindrome1
                     "solos",
                     "stats",
                     "tenet",
-                    "Csharpstar",
+                    ,
                     ""
                 };
 
