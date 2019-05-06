@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "NewQuiz", "NewQuiz\NewQuiz.ssmssqlproj", "{CEB686B4-1013-48D9-AD12-DABF099EB2F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB686B4-1013-48D9-AD12-DABF099EB2F5}.Default|Default.ActiveCfg = Default
+		{63336EF6-7E84-4FA5-8C17-8FA267F95544}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992EA069-0182-4D3F-B83F-6AF9BF5E0C1E}
+	EndGlobalSection
+EndGlobal

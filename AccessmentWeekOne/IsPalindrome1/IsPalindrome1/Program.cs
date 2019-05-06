@@ -57,8 +57,7 @@ namespace IsPalindrome1
                     "sagas",
                     "solos",
                     "stats",
-                    "tenet",
-                    ,
+                    "tenet",                    
                     ""
                 };
 
